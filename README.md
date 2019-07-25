@@ -12,7 +12,7 @@ If there are proxy issues, please create a gradle.properties file at the project
 
 Doc: https://docs.gradle.org/current/userguide/build_environment.html#sec:accessing_the_web_via_a_proxy
 
-Addition points:
+Additional points:
 
 1. Tests are built using Intellij IDEA on a macbook 
 2. A run screencast has been added 
