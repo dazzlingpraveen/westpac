@@ -3,10 +3,10 @@
 How to run:
 
 1. Open the build.gradle file using IDEA or Eclipse. Gradle will sync the project 
-2. Create a run configuration: -Dcucumber.options='--tags "@Westpac"' -Denv=st
+2. Create a run configuration: -Dcucumber.options='--tags "@Westpac"' -Denv=st (or) create a run configuration: -Denv=st
 3. Click the run button 
 
-If you have gradle in the system: gradle -Dcucumber.options='--tags "@Westpac"' -Denv=st
+If you have gradle in the system: gradle -Dcucumber.options='--tags "@Westpac"' -Denv=st (or) gradle -Denv=st
 
 If there are proxy issues, please create a gradle.properties file at the project directory level and add properties like specified in the below link,
 
